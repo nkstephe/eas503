@@ -1,7 +1,7 @@
 # Week1
 
 ## Week 1 Topics
-- Chapters 1, 2, 3, 4, 7 from Practical Programming 3rd Edition By Paul Gries et al.
+- Chapters 1, 2, 3, 4, 7 from Practical Programming 3rd Edition By Paul Gries et al.. 
 - Course Introduction
 - Python Basics (Data types, mathematical operations, variables)
 - Functions
