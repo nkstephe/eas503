@@ -13,10 +13,9 @@
 - Week 10  - 11/1/2021 -- Database Concepts: SQLite3 continued, Python and Database
 - Week 11 - 11/8/2021  -- Working with Data: Numpys, Pandas, and database
 - Week 12 - 11/15/2021 -- Visualization: Linking Database to Pandas and Visualization (matplotlib, seaborn, plotly)
-- Week 13 - 11/22/2021 -- Machine Learning with Python 1
-- Week 14 - 11/29/2021 -- Machine Learning with Python 2
-- Week 15 - 12/6/2021 -- Projects Presentations
-- Last Day of Classes Friday, Dec. 10, 2021
+- Week 13 - 11/22/2021 -- Machine Learning with Python 1 (only one class due to fall recess)
+- Week 14 - 11/29/2021 -- Machine Learning with Python 1 (continue)
+- Week 15 - 12/6/2021 --  Machine Learning with Python 2
 
 ## Grading
 - Homework (8) -- 50%
@@ -26,22 +25,30 @@
 
 
 ## Homework Dates (Tentative)
-- Homework will be posted by Sundays @ 11:59 PM EST
+- Homework will be posted by Sundays @ 11:59 PM EST 
 - Homework will be due on the date listed @ 11:59 PM EST
 - No late homework will be accepted, not even for partial credit
-- Homework	0	-- release date:	08/31/2021	; due 	09/05/2021 -- Does not count toward grade
-- Homework	1	-- release date:	09/07/2021	; due 	09/12/2021
-- Homework	2	-- release date:	09/14/2021	; due 	09/19/2021
-- Homework	3	-- release date:	09/21/2021	; due 	09/26/2021
-- Homework	4	-- release date:	09/28/2021	; due 	10/10/2021
-- Homework	5	-- release date:	10/26/2021	; due 	11/07/2021
-- Homework	6	-- release date:	11/09/2021	; due 	11/14/2021
-- Homework	7	-- release date:	11/23/2021	; due 	11/28/2021
-- Homework	8	-- release date:	11/30/2021	; due 	12/05/2021
+- Homework 0  -- release date: ???; due 9/12/2021 -- Does not count toward grade
+- Homework 1  -- release date: 9/12/2021; due 9/19/2021
+- Homework 2  -- release date: 9/19/2021; due 9/26/2021
+- Homework 3  -- release date: 9/26/2021; due 10/3/2021
+- Homework 4  -- release date: 10/3/2021; due 10/10/2021
+- Homework 5  -- release date: 10/24/2021; due 10/31/2021 
+- Homework 6  -- release date: 10/31/2021; due 10/31/2021
+- Homework 7  -- release date: 11/7/2021; due 11/14/2021
+- Homework 8  -- release date: 12/5/2021; due 12/12/2021
+- Homework 9  -- release date: 12/10/2021; due 12/20/2021
 
 
 ## Lab Dates (Tentative)
 - Labs will be due on the date listed @ 11:59 PM EST
 - No late labs will be accepted, not even for partial credit
-- Lab 	1	-- release date:	10/10/2021	; due 	10/31/2021
-- Lab 	2	-- release date:	11/23/2021	; due 	12/10/2021
+- Lab 1 -- release date: 10/10/2021; due 10/24/2021
+- Lab 2 -- release date: 11/14/2021; due 11/30/2021
+
+## Project Dates (Tentative)
+- 10/18/2021 -- Form groups on UB Learns
+- 11/7/2021 -- Submit project description on UB Learns
+- 11/29/2021 -- Submit preliminary report on UB Learns
+- 12/10/2021 -- Submit video presentation, final report and code
+- 12/15/2021 -- Watch 5 other presentation and provide feedback

@@ -16,14 +16,17 @@
     - use `Ipython` from command-line
     - use `spyder` from Anaconda GUI
     - use `notebook` from Anaconda GUI
-  - Sublime -- a good editor 
+  - Editors and IDEs (Integrated Development Enviroment)
+    - PyCharm
+    - Visual Studio Code
+    - Sublime -- a good editor 
   - General Features of Python
     - Interpreted language
     - Forced indentation
     - Easy to use and learn syntax. Good first programming language
     - Very popular in data science field along with R
 
-## Command Line Basics
+## Command Line Basics (Linux)
   - organization: folders inside folders
   - absolute path vs relative path;
   - Using `~`
@@ -208,6 +211,7 @@ This is called Dynamic typing;  C++ statically-typed -- cannot change the variab
 - Functions remove duplicated code
 - Functions can call other functions
 - Functions can OPTIONALLY take parameters or inputs that they can use inside the function 
+- Functions may be called a routine, subroutine, subprogram, or procedure
 
 ### Built-in functions
 - `abs(-9)` -- `-9` is the input argument. Arguments appear between the parenthesis after the function name
