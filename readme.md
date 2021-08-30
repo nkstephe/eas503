@@ -37,7 +37,7 @@
 - Homework 6  -- release date: 10/31/2021; due 10/31/2021
 - Homework 7  -- release date: 11/7/2021; due 11/14/2021
 - Homework 8  -- release date: 12/5/2021; due 12/12/2021
-- Homework 9  -- release date: 12/10/2021; due 12/20/2021
+- Homework 9  -- release date: 12/10/2021; due 12/15/2021
 
 
 ## Lab Dates (Tentative)
