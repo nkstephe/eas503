@@ -122,7 +122,7 @@ to do based on the current information you have, and much more.
   - complex - `7+3j`
 - Ints vs Floats
   - Stored differently
-  - floats take more space than int
+  - floats and integers vary in sizes
   - Ints and floats both can have positive and negative
   - `type()` -- used to figure out which type of data type it is
 - Why use ints? 
