@@ -99,7 +99,7 @@ to do based on the current information you have, and much more.
 
 ## Basic Data Types
 - Every value in Python has a particular type, and the types of values determine how they behave when they are combined. 
-- You will mostly use these data types: `int`, `float`, `str`, `True/False`, and `None`
+- You will mostly use these data types: `int`, `float`, `str`, `bool` (`True/False`), and `None`
 
 ## Operators
 - `+` Addition -- `2+2=4`
