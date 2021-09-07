@@ -1,2 +1,5 @@
+/.idea
+/homework
+*.pyc
 .ipynb*
 %SystemDrive%/
